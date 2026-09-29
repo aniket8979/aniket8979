@@ -1,41 +1,99 @@
-<h1 align="center">Hi 👋, I'm Aniket Sharma</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+# Hi there, I'm Aniket 👋 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket8979&label=Profile%20views&color=0e75b6&style=flat" alt="aniket8979" /> </p>
+🚀 **Backend & Systems Engineer** | Building Scalable, Resilient & High-Throughput Systems
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket8979" alt="aniket8979" /></a> </p>
+I specialize in designing low-latency backend architectures, deep-diving into database internals, and implementing fault-tolerant distributed system patterns[cite: 1.2]. My primary focus is building production-ready infrastructure tailored for scale and high availability[cite: 1.2].
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 💬 Ask me about **Springboot, React, Flask, Express**
+### 🛠️ Core Tech Stack & Skills
 
-- 📫 How to reach me **aniketsharma8979@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket8979&show_icons=true&locale=en&layout=compact" alt="aniket8979" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket8979&show_icons=true&locale=en" alt="aniket8979" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket8979&" alt="aniket8979" /></p>
+* **Languages:** Java, SQL
 
 
-<!--
-**aniket8979/aniket8979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Frameworks & Ecosystem:** Spring Boot, Spring Data JPA, Hibernate
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Databases & Storage:** PostgreSQL, MySQL, Redis (Indexing, Query Optimization, Dynamic Routing)
+
+
+* **Architecture & System Design:**
+* **Low-Level Design (LLD):** OOP Principles, SOLID, Concurrency/Multithreading, Thread Pools, Clean Architecture
+
+
+* **High-Level Design (HLD):** Microservices, Asynchronous Messaging, Read-Write Splitting, Sharding
+
+
+
+
+* **DevOps & Containers:** Docker, Docker Compose, Container Networking & Volume Management
+
+
+
+---
+
+### 🧪 Hands-On System Architecture & Projects
+
+#### 🚘 Parking Lot Management System (LLD)
+
+* Designed an extensible, thread-safe Low-Level Design (LLD) architecture applying SOLID principles and Object-Oriented patterns.
+
+
+* Managed concurrent slot allocations, thread synchronization, and clean domain separation.
+
+
+
+#### 🗄️ Database Read Replication & Traffic Routing
+
+* Configured a multi-node database cluster using **Docker Compose** (1 Primary Write Node + Multiple Read Replicas).
+
+
+* Implemented application-level dynamic routing using Spring's `AbstractRoutingDataSource` to route `@Transactional(readOnly = true)` traffic to read replicas, optimizing throughput and offloading the primary write node.
+
+
+* Solved challenges around **Replication Lag** and read-your-own-writes consistency.
+
+
+
+#### 🧩 Horizontal Database Partitioning (Sharding)
+
+* Implemented hash-based application-level database sharding.
+
+
+* Explored solutions for cross-shard query aggregation, distributed transactions, and resharding dynamics.
+
+
+
+---
+
+### 📈 Current Learning Focus & Roadmap
+
+* ⚡ **Event-Driven Architectures:** Mastering asynchronous messaging models, Pub/Sub, consumer groups, and idempotency guarantees using **Apache Kafka / RabbitMQ**.
+
+
+* 🛡️ **System Resiliency:** Circuit breakers, rate limiting, and zero-downtime deployment strategies.
+
+
+
+---
+
+### 📫 Connect with Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-handle](#)
+* 📧 **Email:** [your-email@example.com](#)
+
+```
+
+```
+
+---
+
+### Why this works for employers & GCCs:
+
+1. **Focuses on Real Engineering Problems:** Instead of basic CRUD apps, it highlights key distributed concepts like **Read/Write splitting, dynamic database routing, Docker virtualization, and sharding**.
+
+
+2. **Clear Technology Keywords:** Highlights relevant technologies like **Spring Boot, Java, PostgreSQL, Docker Compose, and System Design** right at the top.
+
+
+3. **Shows Continuous Growth:** The "Current Learning Focus" section highlights your interest in **Event-Driven Architectures (Kafka/RabbitMQ)**, demonstrating initiative and long-term career drive.
