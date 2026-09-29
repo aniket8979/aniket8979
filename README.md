@@ -77,8 +77,8 @@ I specialize in designing secure & low-latency system architectures, deep-diving
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/aniket-sharma-b33b4b133/](#)
-* 📧 **Email:** [aniketsharma8979@gmail.com](#)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/aniket-sharma-b33b4b133/](https://www.linkedin.com/in/aniket-sharma-b33b4b133/)
+* 📧 **Email:** [aniketsharma8979@gmail.com](mailto:aniketsharma8979@gmail.com)
 
 
 
