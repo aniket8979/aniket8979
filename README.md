@@ -8,13 +8,13 @@ I specialize in designing low-latency backend architectures, deep-diving into da
 
 ### 🛠️ Core Tech Stack & Skills
 
-* **Languages:** Java, SQL
+* **Languages:** Java, JavaScript
 
 
-* **Frameworks & Ecosystem:** Spring Boot, Spring Data JPA, QueryDSL
+* **Frameworks & Ecosystem:** Spring Boot, Spring Data JPA, QueryDSL, React.
 
 
-* **Databases & Storage:** PostgreSQL, MySQL, Redis (Indexing, Query Optimization, Dynamic Routing)
+* **Databases & Storage:** PostgreSQL, MySQL, Redis (Indexing, Query Optimization, Dynamic Routing).
 
 
 * **Architecture & System Design:**
