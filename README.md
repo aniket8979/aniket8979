@@ -11,7 +11,7 @@ I specialize in designing low-latency backend architectures, deep-diving into da
 * **Languages:** Java, SQL
 
 
-* **Frameworks & Ecosystem:** Spring Boot, Spring Data JPA, Hibernate
+* **Frameworks & Ecosystem:** Spring Boot, Spring Data JPA, QueryDSL
 
 
 * **Databases & Storage:** PostgreSQL, MySQL, Redis (Indexing, Query Optimization, Dynamic Routing)
@@ -22,8 +22,6 @@ I specialize in designing low-latency backend architectures, deep-diving into da
 
 
 * **High-Level Design (HLD):** Microservices, Asynchronous Messaging, Read-Write Splitting, Sharding
-
-
 
 
 * **DevOps & Containers:** Docker, Docker Compose, Container Networking & Volume Management
@@ -79,21 +77,11 @@ I specialize in designing low-latency backend architectures, deep-diving into da
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-handle](#)
-* 📧 **Email:** [your-email@example.com](#)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/aniket-sharma-b33b4b133/](#)
+* 📧 **Email:** [aniketsharma8979@gmail.com](#)
 
 ```
 
 ```
 
 ---
-
-### Why this works for employers & GCCs:
-
-1. **Focuses on Real Engineering Problems:** Instead of basic CRUD apps, it highlights key distributed concepts like **Read/Write splitting, dynamic database routing, Docker virtualization, and sharding**.
-
-
-2. **Clear Technology Keywords:** Highlights relevant technologies like **Spring Boot, Java, PostgreSQL, Docker Compose, and System Design** right at the top.
-
-
-3. **Shows Continuous Growth:** The "Current Learning Focus" section highlights your interest in **Event-Driven Architectures (Kafka/RabbitMQ)**, demonstrating initiative and long-term career drive.
