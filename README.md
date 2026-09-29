@@ -2,7 +2,7 @@
 
 🚀 **Backend & Systems Engineer** | Building Scalable, Resilient & High-Throughput Systems
 
-I specialize in designing low-latency backend architectures, deep-diving into database internals, and implementing fault-tolerant distributed system patterns. My primary focus is building production-ready infrastructure tailored for scale and high availability.
+I specialize in designing secure & low-latency system architectures, deep-diving into database optimizations and scalability, and implementing fault-tolerant distributed system patterns. My primary focus is building production-ready infrastructure tailored for scale and high availability.
 
 ---
 
