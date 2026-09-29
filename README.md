@@ -2,7 +2,7 @@
 
 🚀 **Backend & Systems Engineer** | Building Scalable, Resilient & High-Throughput Systems
 
-I specialize in designing low-latency backend architectures, deep-diving into database internals, and implementing fault-tolerant distributed system patterns[cite: 1.2]. My primary focus is building production-ready infrastructure tailored for scale and high availability[cite: 1.2].
+I specialize in designing low-latency backend architectures, deep-diving into database internals, and implementing fault-tolerant distributed system patterns. My primary focus is building production-ready infrastructure tailored for scale and high availability.
 
 ---
 
@@ -80,8 +80,6 @@ I specialize in designing low-latency backend architectures, deep-diving into da
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/aniket-sharma-b33b4b133/](#)
 * 📧 **Email:** [aniketsharma8979@gmail.com](#)
 
-```
 
-```
 
 ---
